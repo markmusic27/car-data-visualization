@@ -14,7 +14,7 @@ Lets start by looking at all of the graphs generated with the data and what each
 
 #### __Scatter Plot__
 
-<kbd><img src="https://i.ibb.co/vwkRp5N/scatterplot.png" height="250"/></kbd>
+<img src="https://i.ibb.co/vwkRp5N/scatterplot.png" height="250" style="border-radius: 10px"/>
 
 #### __Linear Regression Plot__
 
