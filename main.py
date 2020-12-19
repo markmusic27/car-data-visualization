@@ -37,5 +37,3 @@ ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
 
 sx = sns.swarmplot(x=x, y=y, data=df)
 sx.set_xticklabels(sx.get_xticklabels(), rotation=45)
-
-# CONJECTURE
