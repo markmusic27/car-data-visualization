@@ -14,23 +14,23 @@ Lets start by looking at all of the graphs generated with the data and what each
 
 #### __Scatter Plot__
 
-<img src="https://i.ibb.co/vwkRp5N/scatterplot.png" />
+<kbd><img src="https://i.ibb.co/vwkRp5N/scatterplot.png" height="250"/></kbd>
 
 #### __Linear Regression Plot__
 
-<img src="https://i.ibb.co/2jg9LbX/lmplot.png" />
+<img src="https://i.ibb.co/2jg9LbX/lmplot.png" height="250" />
 
 #### __Joint Plot__
 
-<img src="https://i.ibb.co/kG99TqG/jointplot.png" />
+<img src="https://i.ibb.co/kG99TqG/jointplot.png" height="250" />
 
 #### __Box & Whisker Plot__
 
-<img src="https://i.ibb.co/c8M5Jhp/boxplot.png" />
+<img src="https://i.ibb.co/c8M5Jhp/boxplot.png" height="250" />
 
 #### __Swarm Plot__
 
-<img src="https://i.ibb.co/r768V3s/swarmplot.png" />
+<img src="https://i.ibb.co/r768V3s/swarmplot.png" height="250" />
 
 
 Built with ❤️ by [@markmusic2727](https://twitter.com/MarkMusic2727).
